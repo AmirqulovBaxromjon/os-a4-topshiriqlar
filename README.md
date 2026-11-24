@@ -136,3 +136,4 @@ PR avtomatik yangilanadi.
 |---|--------|-------|-------|------|
 | 0 | Bekimmetova Durdona | O'qituvchi | Namuna | https://github.com/Bekimmetova |
 | 1 | Xurramov Behruz | SRM002-2 | UzKey | https://github.com/BehruzXurramov/UzKey |
+| 2 | Amirqulov Bahromjon | SRM002-2 | Mini Shell (Sodda buyruqlar interpretatori) | https://github.com/AmirqulovBaxromjon/os-a4-amirqulov |
